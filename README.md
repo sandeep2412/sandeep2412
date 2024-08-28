@@ -1,8 +1,21 @@
-<h3 align="center">A passionate Java developer from India</h3>
+<h1 align="center">Hi 👋, I'm Sandeep Kumar</h1>
+<h3 align="center">A Passionate Java Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeep2412&label=Profile%20views&color=0e75b6&style=flat" alt="sandeep2412" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandeep2412" alt="sandeep2412" /></a> </p>
+- 🔭 I’m currently working as **SDE 1**
+
+- 🌱 I’m currently learning **SpringBoot, Azure, Kafka, Reactjs**
+
+- 🤝 My area of Expertise **Spring, Java , HTML & CSS**
+
+- 👯 I’m looking to collaborate on **Cloud Technologies and Freelancing Porjects**
+
+- 👨‍💻 All of my projects are available at [https://sandeep2412.github.io/Portfolio/index.html]
+
+- 💬 Ask me about **Office Politics and SDE**
+
+- 📫 How to reach me **sandeepkr241998@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
