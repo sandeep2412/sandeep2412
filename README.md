@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Cloud Technologies and Freelancing Porjects**
 
-- 👨‍💻 All of my projects are available at [https://sandeep2412.github.io/Portfolio/index.html]
+- 👨‍💻 All of my projects are available at [https://sandeep2412.github.io/Portfolio]
 
 - 💬 Ask me about **Office Politics and SDE**
 
