@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sandeep2412.github.io/Portfolio]
 
-- 💬 Ask me about **Office Politics and SDE**
+- 💬 Ask me about **Books and SDE**
 
 - 📫 How to reach me **sandeepkr241998@gmail.com**
 
